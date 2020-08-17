@@ -1,7 +1,7 @@
 # maze
 ## About
 - Maze game using [Matter.js](https://brm.io/matter-js/) library
-- Open _index.js_
+- Open _index.js_ || via [GitHub Pages](https://xvferdy.github.io/maze)
 - Use <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> to move
 ### Screenshoot :rainbow:
 ![Maze game.gif](https://github.com/xvferdy/maze/blob/master/img/maze.gif)
